@@ -1,4 +1,4 @@
-# parse-server-example
+# parse-server-example [![Build Status](https://travis-ci.org/ephraimkunz/parse-server-example.svg?branch=master)](https://travis-ci.org/ephraimkunz/parse-server-example)
 
 Example project using the [parse-server](https://github.com/ParsePlatform/parse-server) module on Express.
 
